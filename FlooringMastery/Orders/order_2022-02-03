@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1::dgfn::pa::7.00::wood::50::5.15::4.75::257.50::237.50::3465.00::3960.00::02/03/2022
+2::logan::oh::8.00::tile::20000::3.50::4.15::70000.00::83000.00::1224000.00::1377000.00::02/03/2022
+3::sdgfh::ca::25.00::laminate::800::1.75::2.10::1400.00::1680.00::77000.00::80080.00::02/03/2022
+4::test::oh::8.00::tile::100::3.50::4.15::350.00::415.00::6120.00::6885.00::02/03/2022

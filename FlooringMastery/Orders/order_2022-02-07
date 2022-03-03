@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9::yy u::tx::4.45::wood::103::5.15::4.75::530.45::489.25::4537.67::5557.37::02/07/2022

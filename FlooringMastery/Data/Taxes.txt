@@ -1,0 +1,9 @@
+State,StateName,TaxRate
+TX::Texas::4.45
+WA::Washington::9.25
+KY::Kentucky::6.00
+CA::California::25.00
+OH::Ohio::8.00
+PA::Pennsylvania::7.00
+MI::Michigan::9.00
+IN::Indiana::6.00

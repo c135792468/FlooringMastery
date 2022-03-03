@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6::fgsh::oh::8.00::wood::5050::5.15::4.75::26007.50::23987.50::399960.00::449955.00::02/04/2022
+7::dfgj::ca::25.00::tile::5000::3.50::4.15::17500.00::20750.00::956250.00::994500.00::02/04/2022
+5::adfg::pa::7.00::carpet::500::2.25::2.10::1125.00::1050.00::15225.00::17400.00::02/04/2022
